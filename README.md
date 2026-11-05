@@ -15,3 +15,5 @@
     **Informe Técnico:** Contextualización de los hallazgos identificando patrones de desigualdad socioeconómica, barreras de acceso tecnológico y brechas regionales.
 
     **Comunicación de Resultados:** Documentación del proyecto bajo estándares profesionales de código (GitHub), elaboración del soporte visual y defensa de los resultados mediante una exposición oral breve.
+
+tablero del proyecto: https://github.com/users/sbalderrama17/projects/2/views/1
